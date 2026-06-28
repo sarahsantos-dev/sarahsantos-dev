@@ -27,7 +27,3 @@ Outside of code, I'm an avid reader and sports enthusiast — both keep me disci
 - 💼 LinkedIn: [sarah-santos](https://www.linkedin.com/in/sarah-santos-6b8a8339a/)
 
 ⭐️ Currently looking for internship opportunities — always happy to chat!
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
