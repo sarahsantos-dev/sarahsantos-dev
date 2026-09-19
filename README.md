@@ -7,7 +7,7 @@
 
 ## 🔧 Currently learning
 - C (data structures, pointers, dynamic memory allocation, recursion)
-- Linear Algebra & Analytical Geometry
+- UI/UX Desing
 - Web development (HTML, CSS, JS, Node.js/Express)
 - Git & GitHub (self-taught!)
 
